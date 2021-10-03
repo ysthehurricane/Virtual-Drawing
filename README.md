@@ -4,7 +4,7 @@
 ![22](https://user-images.githubusercontent.com/55491822/135742295-d62447e2-850c-4fed-b56a-83d3ae1cb58b.jpg)
 
 
-#### Technical Skill
+#### Technical Skills
 
 1) Opencv
 2) Mediapipe
